@@ -9,6 +9,7 @@ public class MainMavenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MainMavenApplication.class, args);
 //old task
+suyhgf
 	}
 
 }
